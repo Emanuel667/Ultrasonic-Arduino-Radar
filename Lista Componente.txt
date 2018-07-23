@@ -1,0 +1,10 @@
+Acest proiect este o macheta a unui mini sistem de aparare in care am utilizat:
+  -Arduino Leonardo
+  -Senzor cu ultrasunete (HC-SR04)
+  -Senzor infrarosu de distanta (SHARP-GP2Y0A21YK0F)
+  -Modul cu dioda laser
+  -Servo-motor (SG90)
+  -Acumulator Li-Ion 2200 mAh
+  -Placa de Protec?ie pentru Acumulatori Li-Ion
+  -Incarcator Li-Ion pe micro USB (TP4056)
+  -Blower (Ventilator 12v)
